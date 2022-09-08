@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29fb2a5e-118b-4d4f-b3c8-fb9fddd0807f" name="Default Changelist" comment="2020.10.07学习成果">
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/10/comma.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_learning/Go_Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic_learning/Go_Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_learning/ch3/4/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/basic_learning/ch3/4/main.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iP6dB62g4nfVsbyvvMFkzI03t4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\unknowzsj\go_workspace\src\awesomeProject\basic_learning\ch2\2_1" />
+      <recent name="C:\Users\unknowzsj\go_workspace\src\awesomeProject\basic_learning\ch2\2_2" />
+      <recent name="C:\Users\unknowzsj\go_workspace\src\awesomeProject\basic_learning\ch6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build awesomeProject/basic_learning/ch3/10">
+    <configuration name="go build awesomeProject/basic_learning" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/basic_learning/hello.go" />
+      <package value="awesomeProject/basic_learning" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject/basic_learning/ch2/2_2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/basic_learning/ch2/2_2/exe2_2.go" />
+      <package value="awesomeProject/basic_learning/ch2/2_2" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject/basic_learning/ch3/10" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/basic_learning/ch3/10/comma.go" />
+      <package value="awesomeProject/basic_learning/ch3/10" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gopl.io/ch3/surface" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/gopl.io/ch3/surface/main.go" />
+      <package value="gopl.io/ch3/surface" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject/basic_learning/ch3/10" />
+        <item itemvalue="Go Build.go build gopl.io/ch3/surface" />
+        <item itemvalue="Go Build.go build awesomeProject/basic_learning/ch2/2_2" />
+        <item itemvalue="Go Build.go build awesomeProject/basic_learning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test git push" />
+    <MESSAGE value="文件整理" />
+    <MESSAGE value="测试文件是否建立" />
+    <MESSAGE value="简单说明" />
+    <MESSAGE value="2020.10.07学习成果" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.10.07学习成果" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1898" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602053203967">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1898" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602053203967" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1601797561572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601797561572" />
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.center" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.left" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.right" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state x="430" y="85" key="RollbackChangesDialog" timestamp="1601972500772">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="430" y="85" key="RollbackChangesDialog/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601972500772" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1601797569494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601797569494" />
+    <state x="1688" y="137" key="Vcs.Push.Dialog.v2" timestamp="1602065076069">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601975130657" />
+    <state x="1688" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065076069" />
+    <state x="395" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1602321836968">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="395" y="162" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602321836968" />
+    <state x="1829" y="190" key="search.everywhere.popup/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602039968079" />
+  </component>
+</project>
